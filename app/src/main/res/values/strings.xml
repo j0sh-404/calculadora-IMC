@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Examen</string>
+    <!--Nombre inputs-->
+    <string name="persona_nombre">Coloca tu nombre</string>
+    <string name="persona_edad">Coloca tu edad</string>
+    <string name="calcular">Calcular IMC</string>
+    <string name="peso">Coloca tu peso</string>
+    <string name="altura">Coloca tu altura</string>
+    <string name="h">Hombre</string>
+    <string name="m">Mujer</string>
+    <string name="tipo_sexo">Tipo de sexo</string>
+    <string name="sobrepeso">
+        Su peso es alto, si usted mantiene un peso saludable puede reducir enfermedades
+    </string>
+  <string name="peso_bajo">
+      Su peso indica que esta en la categoría de peso bajo, mantenga una alimentaión saludable para un peso saludable
+  </string>
+    <string name="pesoNormal">
+        Peso saludable: !No es una dieta, es un estilo de vida!
+    </string>
+
+</resources>

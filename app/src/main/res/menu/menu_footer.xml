@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_examen2"
+        android:title="EX2"
+        android:icon="@drawable/ic_launcher_foreground"/>
+
+   <item android:id="@+id/menu_examenBase"
+       android:title="ExBase"
+       android:icon="@drawable/ic_launcher_foreground"/>
+    <item android:id="@+id/menu_examen3"
+        android:title="Ex3"
+        android:icon="@drawable/ic_launcher_foreground"/>
+
+</menu>
